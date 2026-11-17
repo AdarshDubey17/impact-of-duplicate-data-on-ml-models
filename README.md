@@ -44,8 +44,10 @@ The notebook currently downloads the CSV from a public GitHub-hosted copy. The o
 
 Accuracy, weighted precision, weighted recall, weighted F1-score, macro F1-score, multi-class ROC-AUC, generalization gap and training time. The notebook also generates classification reports, confusion matrices, feature-importance output and comparison plots.
 
+
 ## Repository structure
 
+```text
 impact-of-duplicate-data-on-ml-models/
 |
 |-- README.md
@@ -61,6 +63,8 @@ impact-of-duplicate-data-on-ml-models/
     |-- results/
     |-- visualizations/
     |-- confusion_matrices/
+```
+
 
 ## How to run in Google Colab
 
