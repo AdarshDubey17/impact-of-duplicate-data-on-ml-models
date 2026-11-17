@@ -46,17 +46,21 @@ Accuracy, weighted precision, weighted recall, weighted F1-score, macro F1-score
 
 ## Repository structure
 
-```text
 impact-of-duplicate-data-on-ml-models/
-â”œâ”€â”€ README.md
-â”œâ”€â”€ LICENSE
-â”œâ”€â”€ requirements.txt
-â”œâ”€â”€ .gitignore
-â”œâ”€â”€ notebooks/
-â”‚   â””â”€â”€ duplicate_data_experiment.ipynb
-â””â”€â”€ outputs/
-    â””â”€â”€ .gitkeep
-```
+|
+|-- README.md
+|-- LICENSE
+|-- requirements.txt
+|-- .gitignore
+|-- COLAB_CELL_GUIDE.md
+|
+|-- notebooks/
+|   |-- duplicate_data_experiment.ipynb
+|
+|-- outputs/
+    |-- results/
+    |-- visualizations/
+    |-- confusion_matrices/
 
 ## How to run in Google Colab
 
