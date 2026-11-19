@@ -69,7 +69,7 @@ impact-of-duplicate-data-on-ml-models/
 ## How to run in Google Colab
 
 1. Open `notebooks/duplicate_data_experiment.ipynb` in Google Colab.
-2. Select **Runtime â†’ Run all**.
+2. Select **Runtime ➜ Run all**.
 3. The notebook installs the required Python libraries, downloads the CSV, performs the experiment and saves the generated tables and figures in `project_outputs/`.
 4. At the end, the notebook creates and downloads `mini_project_outputs.zip`.
 
@@ -96,10 +96,6 @@ Generated outputs are not committed by default. Add the selected final CSV files
 - The same stratified train-test split is used throughout the comparison.
 - Duplicate-sampling variability is represented using two random seeds.
 - The target classes are imbalanced, so accuracy should be interpreted alongside macro F1 and class-wise results.
-
-## Contributors
-
-Add all three group members' names and GitHub profile links here.
 
 ## License and attribution
 
