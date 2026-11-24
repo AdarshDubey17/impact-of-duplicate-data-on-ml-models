@@ -74,6 +74,7 @@ impact-of-duplicate-data-on-ml-models/
 4. At the end, the notebook creates and downloads `mini_project_outputs.zip`.
 
 You can also open the notebook directly from the GitHub repository using Colab's GitHub notebook picker.
+Colab : https://colab.research.google.com/drive/1qEnlfCfG334GRXHnz8Oz2U7rdrD2Cz44
 
 ## Outputs
 
